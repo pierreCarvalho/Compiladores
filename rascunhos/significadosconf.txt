@@ -1,0 +1,5 @@
+simbolos
+estados
+estado inicial
+estado finais
+regras de transiçoes

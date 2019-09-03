@@ -1,0 +1,15 @@
+ID,Token,Token_tipo,Linha,Coluna,Ref 
+1,int,NOME VAR,1,1
+2,x,NOME VAR,1,2
+3,=,SINAL ATRIB,1,3
+4,0,VALOR,1,4
+5,;,PV,1,5
+6,float,NOME VAR,2,1
+7,z,NOME VAR,2,2
+8,,,VG,2,3
+9,g,NOME VAR,2,4
+10,;,PV,2,5
+11,char,NOME VAR,3,1
+12,nome,NOME VAR,3,2
+13,=,SINAL ATRIB,3,3
+14,;,PV,3,4
